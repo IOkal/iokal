@@ -14,7 +14,7 @@ LinkedIn: https://www.linkedin.com/in/iyadokal/
 
  
 ## 👨‍💻 Recent Roles
-* [(AWS) Developer - IBM](https://www.ibm.com/ca-en) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : July 2021 - *present*
+* [Devops Engineer - IBM](https://www.ibm.com/ca-en) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : July 2021 - *present*
 * [Software Developer Intern - Royal Bank of Canada](https://www.rbc.com/about-rbc.html) : May 2020 - August 2020
 * [Software Developer Intern - Royal Bank of Canada](https://www.rbc.com/about-rbc.html) : May 2019 - August 2019
 * [Software Developer Intern - STS Arabia](https://www.stsarabia.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : May 2018 - August 2018   
